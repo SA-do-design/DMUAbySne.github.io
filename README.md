@@ -13,7 +13,7 @@
  <h2>Tshwane University of Technology</h2>
  <h3>We empower people</h3>
  <a><h2>Click here to view the website!</h2></a>
-	 <img src="img/Tut campus.jpg" alt="">
+	 <img src="pictures/Tut campus" alt="">
  </div>
  </body>
  </html>
