@@ -20,8 +20,8 @@
  <dt>Exact number of voucher<dt>
  <dd>461001589101154321<dd>
 
-	 <dt>Airtime,Data,Minutes All Net, Deposit<dt>
-  <dd>Deposit R500<dd>
+	 <dt>Airtime or Data or Minutes All Net or Deposit<dt>
+  <dd>Deposit <dd>
 	  
   <dt>Account Number<dt>
   <dd>1738786******<dd>
