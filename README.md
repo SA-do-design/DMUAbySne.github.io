@@ -19,7 +19,7 @@
 
   
 		 
-		 <dt> enter number of voucher<dt>
+ <dt> enter number of voucher<dt>
  <dd>461001589101154321<dd>
 
  
@@ -31,7 +31,7 @@
 	  <li>Minutes All Net<li>
  <li>Deposit<li>  <ul>
 	 
-		 <dd>Deposit <dd>
+
 
 
   <dt>Account Number<dt>
