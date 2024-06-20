@@ -23,8 +23,7 @@
 	 <dt>What do you wanna do<dt>
   <ul>
 	<li>Airtime<li>  
- <li>Data<li>
- <li>Minutes All Net<li>
+ <li>Data<li> <li>Minutes All Net<li>
  <li>Deposit<li>  <ul>
   <dd>Deposit <dd>
 	  
