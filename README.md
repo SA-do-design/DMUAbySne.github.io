@@ -7,9 +7,10 @@
 	  <link rel="stylesheet" href="style.css" >
 	  
  </head> 
- <body>
- ![AIRTIME](https://github.com/SA-do-design/DMUAbySne.github.io/assets/172437578/c29c42b8-27ce-47ce-af23-11e876ded7e3)
-
+ <style>{
+ background-image:![AIRTIME](https://github.com/SA-do-design/DMUAbySne.github.io/assets/172437578/c29c42b8-27ce-47ce-af23-11e876ded7e3)
+	 }
+</style>
  <h1>Depositing money using airtime</h1>
  <h2>Banking made easier</h2>
  <h3>By Snethemba Mthethwa</h3>
