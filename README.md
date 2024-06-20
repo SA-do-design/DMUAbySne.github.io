@@ -17,14 +17,16 @@
  <dt>Buy 500 airtime<dt>
 	 <dd>R500<dd>
 		 
- <dt>Exact number of voucher<dt>
+		 <dt> enter number of voucher<dt>
  <dd>461001589101154321<dd>
 
-	 <dt>What do you wanna do<dt>
+<dt>What do you wanna do?<dt>
   <ul>
 	<li>Airtime<li>  
- <li>Data<li> <li>Minutes All Net<li>
- <li>Deposit<li>  <ul>
+ <li>Data<li> 
+	  <li>Minutes All Net<li>
+ <li>Deposit<li> 
+	 <ul>
   <dd>Deposit <dd>
 	  
   <dt>Account Number<dt>
