@@ -31,7 +31,7 @@
 	  <li>Minutes All Net</li>
  <li>Deposit</li> 
   </ul>
-<dd>deposit<dd>	
+<dd>Deposit<dd>	
 
   <dt>Account Number<dt>
   <dd>1738786******<dd>
