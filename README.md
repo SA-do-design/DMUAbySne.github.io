@@ -26,10 +26,11 @@
 	 
 <dt>What do you wanna do ?<dt> 
   <ul>
-	<li>Airtime<li>  
- <li>Data<li> 
-	  <li>Minutes All Net<li>
- <li>Deposit<li>  <ul>
+	<li>Airtime</li>  
+ <li>Data</li> 
+	  <li>Minutes All Net</li>
+ <li>Deposit</li> 
+  </ul>
 <dd>deposit<dd>	
 
   <dt>Account Number<dt>
