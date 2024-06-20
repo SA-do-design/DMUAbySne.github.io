@@ -20,7 +20,12 @@
  <dt>Exact number of voucher<dt>
  <dd>461001589101154321<dd>
 
-	 <dt>Airtime or Data or Minutes All Net or Deposit<dt>
+	 <dt>What do you wanna do<dt>
+  <ul>
+	<li>Airtime<li>  
+ <li>Data<li>
+ <li>Minutes All Net<li>
+ <li>Deposit<li>  <ul>
   <dd>Deposit <dd>
 	  
   <dt>Account Number<dt>
