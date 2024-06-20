@@ -7,6 +7,7 @@
 	  <link rel="stylesheet" href="style.css" >
 	  
  </head> 
+ <body>
  <style>{
  background-image: AIRTIME(bg-img.png)
 	 }
