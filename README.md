@@ -10,10 +10,10 @@
  <body>
  
  <h1>Depositing money using airtime</h1>
- <h2>By Snethemba Mthethwa</h2>
+ <h2>Banking made earsier</h2>
+ <h3>By Snethemba Mthethwa</h3>
  
- <a><h2>Click here to view the website!</h2></a>
-	 <img src="Tut campus">
+	 
  
  </body>
  </html>
