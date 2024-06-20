@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+
 <html lang="en">
 <head>
       <meta charset="UTF-8">
@@ -8,12 +8,12 @@
 	  
  </head> 
  <body>
- <SA-do-design="container">
- <h1>Welcome to Bua_News</h1>
- <h2>Tshwane University of Technology</h2>
- <h3>We empower people</h3>
+ 
+ <h1>Depositing money using airtime</h1>
+ <h2>By Snethemba Mthethwa</h2>
+ 
  <a><h2>Click here to view the website!</h2></a>
 	 <img src="Tut campus">
- </div>
+ 
  </body>
  </html>
