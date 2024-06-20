@@ -8,7 +8,7 @@
 	  
  </head> 
  <style>{
- background-image:![AIRTIME](https://github.com/SA-do-design/DMUAbySne.github.io/assets/172437578/c29c42b8-27ce-47ce-af23-11e876ded7e3)
+ background-image: AIRTIME(bg-img.png)
 	 }
 </style>
  <h1>Depositing money using airtime</h1>
