@@ -10,7 +10,7 @@
  <body>
  
  <h1>Depositing money using airtime</h1>
- <h2>Banking made earsier</h2>
+ <h2>Banking made easier</h2>
  <h3>By Snethemba Mthethwa</h3>
  
 	 
